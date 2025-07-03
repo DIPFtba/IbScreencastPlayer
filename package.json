@@ -1,7 +1,7 @@
 {
-  "name": "difa-logviewer",
+  "name": "tba-logviewer",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "author": "wagnerf@dipf.de",
   "scripts": {
