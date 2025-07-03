@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/tba-logviewer/",
+  base: "/IbScreencastPlayer/",
   plugins: [react()],
   resolve: {
     alias: {
